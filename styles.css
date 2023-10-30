@@ -47,6 +47,14 @@
   width: 50%;
 }
 
+.logo-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  width: 50%;
+}
+
 .nav1 a {
   text-decoration: none;
 }
