@@ -150,5 +150,5 @@ next.addEventListener("click", () => {
   }
 });
 
-// document.cookie = "_ga_13V6F9CL1H=NilaiKuki; SameSite=None; Secure";
+document.cookie = "_ga_13V6F9CL1H=NilaiKuki; SameSite=None; Secure";
 
