@@ -149,3 +149,6 @@ next.addEventListener("click", () => {
     pageInfo(currentSlide)
   }
 });
+
+// document.cookie = "_ga_13V6F9CL1H=NilaiKuki; SameSite=None; Secure";
+
