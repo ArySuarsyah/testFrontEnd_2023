@@ -30,10 +30,9 @@
   position: relative;
   display: flex;
   border: 1px solid #fff;
-  font-size: var(--font-size-3xs);
-  color: var(--color-white);
   box-sizing: border-box;
   width: 90%;
+  color: #fff;
 }
 
 .section1 {
@@ -54,6 +53,7 @@
 
 .influenzilla1 {
   font-weight: 600;
+  color: #fff;
 }
 
 .bespoke-design-and1 {
@@ -671,7 +671,7 @@ position: relative;
   position: relative;
 }
 
-.logo,
+.logo-footer,
 .menu-footer,
 .menuBtn,
 .influenzilla,
