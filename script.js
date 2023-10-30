@@ -143,7 +143,7 @@ prev.addEventListener("click", () => {
 });
 
 next.addEventListener("click", () => {
-  if (currentSlide < imgParent.length - 2) {
+  if (currentSlide < imgParent.length - 1) {
     currentSlide++;
     showSlide(currentSlide);
     pageInfo(currentSlide)

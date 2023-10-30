@@ -11,7 +11,7 @@
 .mainContainer {
   width: 100vw;
   overflow: hidden;
-  background-image: url(./public/max-shirko-none-b20aa92995e14cff81b48d0306ac0b3e2-1@2x.png);
+  background-image: url(./image/max-shirko-none-b20aa92995e14cff81b48d0306ac0b3e2-1@2x.png);
   background-repeat: no-repeat;
   background-position: certain;
   background-size: cover;
@@ -290,7 +290,7 @@
 }
 
 .we-create-unique {
-  background-image: url(./public/rectangle-20@2x.png);
+  background-image: url(./image/rectangle-20@2x.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -299,7 +299,7 @@
 }
 
 .we-build-custom {
-  background-image: url(./public/rectangle-21@2x.png);
+  background-image: url(./image/rectangle-21@2x.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -308,7 +308,7 @@
 }
 
 .we-develop-influencer {
-  background-image: url(./public/rectangle-22@2x.png);
+  background-image: url(./image/rectangle-22@2x.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -317,7 +317,7 @@
 }
 
 .we-produce-high-quality {
-  background-image: url(./public/rectangle-23@2x.png);
+  background-image: url(./image/rectangle-23@2x.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -432,7 +432,7 @@
 }
 
 .section3 {
-  background-image: url(./public/max-shirko-none-b20aa92995e14cff81b48d0306ac0b3e2-2@2x.png);
+  background-image: url(./image/max-shirko-none-b20aa92995e14cff81b48d0306ac0b3e2-2@2x.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -580,14 +580,14 @@
 }
 
 .rectangle-parent13 {
-  background-image: url(./public/rectangle-24@2x.png);
+  background-image: url(./image/rectangle-24@2x.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .rectangle-parent14 {
-  background-image: url(./public/rectangle-26@2x.png);
+  background-image: url(./image/rectangle-26@2x.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
